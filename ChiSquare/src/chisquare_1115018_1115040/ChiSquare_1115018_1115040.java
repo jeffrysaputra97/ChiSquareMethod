@@ -11,7 +11,7 @@ import java.util.Scanner;
 
 /**
  *
- * @author LABKOM
+ * @author Natalie & Jeffry
  */
 public class ChiSquare_1115018_1115040 {
 
